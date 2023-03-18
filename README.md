@@ -9,4 +9,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jehuipark&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jehuipark&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jehuipark&theme=default&utcOffset=8)
-<img width="700" src="https://activity-graph.herokuapp.com/graph?username=jehuipark&theme=github-light" alt="jehuipark contribution graph" />
